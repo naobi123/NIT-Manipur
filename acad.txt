@@ -4,4 +4,5 @@ Academic has finance section,
 1st Update after creating the CSE branch from Master branch
 
 This is a line updated after creating Mech branch in the master branch.
+Updating by bobo user from the bobo account after forking the NIT-Manipur Repository
 
