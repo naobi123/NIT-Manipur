@@ -2,4 +2,6 @@ This is the academic corner of NIT Manipur
 Academic has finance section,
 
 1st Update after creating the CSE branch from Master branch
+
 This is a line updated after creating Mech branch in the master branch.
+
